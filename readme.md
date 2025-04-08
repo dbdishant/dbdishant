@@ -8,6 +8,7 @@ I am a passionate and dedicated **Data Engineer & Software Developer**. Currentl
 - Enhancing my knowledge in **cloud computing** (AWS, Azure).
 
 ### 🔭 Key Projects
+- **real Time Data Streaing:** An end-to-end real-time data engineering pipeline using Airflow, Kafka, Spark, and Cassandra—all containerized with Docker for seamless deployment.
 - **Custom Memory Manager**: Designed a bitmap-based memory management library in C.
 - **TweetEval**: Implemented NLP models for multi-class tweet classification using BERT and RoBERTa.
 - **Strive Text Editor**: A terminal-based lightweight text editor built with < 1K lines of C code.
