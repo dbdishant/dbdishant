@@ -6,8 +6,7 @@
 🤖 AI Engineer | Machine Learning | Computer Vision | NLP | LLMs  
 📍 New York, USA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dishantbhatnagar/)
 [![Email](https://img.shields.io/badge/Email-dbdisant98%40gmail.com-red?logo=gmail)](mailto:dbdishant98@gmail.com)
 
 </div>
@@ -188,8 +187,7 @@ https://doi.org/10.1145/3764386.3790088
 
 # 📫 Let's Connect
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 💼 LinkedIn: (https://www.linkedin.com/in/dishantbhatnagar/)
 - 📧 Email: dbdishant98@gmail.com
 
 ---
