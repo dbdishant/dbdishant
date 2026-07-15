@@ -1,190 +1,97 @@
-# Hi there, I'm Dishant Bhatnagar 👋
+# Hi, I'm Dishant Bhatnagar 👋
 
-<div align="center">
+**Data Engineer | AI/ML Enthusiast | AWS | Apache Spark | Databricks | Python**
 
-🎓 M.S. in Computer Science @ Binghamton University  
-🤖 AI Engineer | Machine Learning | Computer Vision | NLP | LLMs  
-📍 New York, USA
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dishantbhatnagar/)
-[![Email](https://img.shields.io/badge/Email-dbdisant98%40gmail.com-red?logo=gmail)](mailto:dbdishant98@gmail.com)
-
-</div>
+Data Engineer and AI/ML practitioner with experience building scalable data pipelines, cloud-based ETL workflows, real-time streaming systems, and ML/NLP-enabled applications. I have worked across AWS, Spark, Databricks, Supabase, Kafka, and modern analytics platforms, with hands-on experience in both production data engineering and AI evaluation workflows.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Technical Skills
 
-I'm a Computer Science graduate student at **Binghamton University** passionate about building AI-powered applications that solve real-world problems.
-
-My experience spans:
-
-- 🤖 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- 🧠 Large Language Models (LLMs)
-- 💬 Natural Language Processing
-- 🗄️ Database Design & Backend Systems
-- 🚀 AI Product Development
-
-I enjoy taking projects from research to deployment and collaborating with cross-functional engineering teams.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
+### Programming
 - Python
 - SQL
+- Bash
 
-### AI & Machine Learning
+### Big Data & Cloud
+- AWS (Glue, Redshift, EMR, Lambda, S3, CloudWatch)
+- Apache Spark / PySpark
+- Kafka
+- Hive
+- Hadoop
+- Databricks
 
-- PyTorch
-- CNNs
-- Vision Transformers (ViT)
-- Transfer Learning
-- Hugging Face
-
-### Computer Vision
-
-- OpenCV
-- YOLOv8
-- Image Classification
-- Object Detection
-- Semantic Segmentation
-
-### Libraries
-
-- Torchvision
-- Albumentations
-- SciPy
-- Librosa
-- Streamlit
+### ETL & Data Engineering
+- Apache Airflow
+- Data Modeling
+- ETL Pipelines
+- SQL Optimization
 
 ### Databases
-
+- PostgreSQL
 - MySQL
 - SQL Server
 - MongoDB
+- Cassandra
 - Supabase
 
 ### Tools
-
+- Docker
 - Git
-- Linux
-- Jupyter Notebook
-- NVIDIA Jetson
+- Jenkins
+- CI/CD
+- Tableau
+- Power BI
+- Amazon QuickSight
+- Streamlit
+
+### AI / Machine Learning
+- Prompt Engineering
+- LLM Evaluation
+- NLP
+- BERT
+- Model Performance Analysis
 
 ---
 
-# 💼 Professional Experience
+## 💼 Professional Highlights
 
-## Handshake AI Solutions
-**AI Fellow** *(Jan 2026 – Present)*
-
-- Built prompt engineering workflows for domain-specific AI tasks
-- Evaluated LLM performance across multiple prompt versions
-- Helped improve model quality through structured feedback and testing
-
----
-
-## Uplifty.AI
-**AI / Machine Learning Engineering Intern** *(Nov 2025 – Jan 2026)*
-
-- Developed transformer-based NLP pipelines
-- Designed scalable Supabase databases
-- Supported end-to-end ML workflows from preprocessing to deployment
+- Built scalable ETL pipelines on AWS Glue, S3, and Redshift.
+- Developed real-time streaming pipelines using Kafka and Apache Spark.
+- Worked on NLP pipelines, BERT models, and production ML workflows.
+- Designed prompt evaluation pipelines and feedback loops for LLM improvement.
+- Built executive dashboards using Tableau, Power BI, and QuickSight.
+- Developed Python-based audio processing pipelines using Librosa, Pydub, and SciPy.
 
 ---
 
-## Entertainment Technologists Dev Corp
-**Software Development Intern** *(Aug 2024 – Nov 2024)*
+## 📂 Featured Projects
 
-- Built a video classification pipeline using OpenCV + YOLOv8
-- Developed an NLP contract-analysis system reducing review errors by **65%**
-- Delivered production-ready AI features within a 10-week internship
+### Real-Time Data Streaming Pipeline
+- Kafka
+- Apache Spark
+- Airflow
+- PostgreSQL
+- Cassandra
+- Docker
 
----
+Designed a distributed streaming platform capable of processing millions of IoT events with low latency and fast recovery.
 
-## Accenture
-
-**Software Development Analyst** *(Apr 2023 – Aug 2023)*
-
-Worked on:
-
-- Deep Learning
-- Vision Transformers
-- Semantic Segmentation
-- Image Classification
-- Hyperparameter Optimization
+### OKCupid Profile Analysis
+Applied NLP on 50K+ user profiles to predict match preferences and built a behavioral correlation model achieving ~78% accuracy.
 
 ---
 
-## Infosys
+## 🏆 Certifications
 
-**Senior Systems Engineer** *(Jan 2021 – Apr 2023)*
-
-- Built industrial computer vision inspection systems
-- Trained models on 100,000+ images
-- Achieved approximately **97% classification accuracy**
-- Optimized inference on NVIDIA Jetson devices
+- Microsoft Certified: Azure Fundamentals
+- Databricks Certified Data Engineer Associate
+- Big Data Analytics with Hadoop and Apache Spark
+- Programming, Data Structures and Algorithms using Python
 
 ---
 
-# 🔬 Research
-
-## Benchmarker (ISPD 2026)
-
-Co-authored a research paper introducing **Benchmarker**, a web-based system for tracking reproducible EDA benchmark results.
-
-Research involved:
-
-- MySQL database design
-- Benchmark management
-- Data provenance
-- Research tooling
-- Web interface development
-
----
-
-## Investigating Decision-Making Behavior of LLMs
-
-Reproduced experiments from:
-
-> *Large Language Models as Simulated Economic Agents*
-
-Focused on:
-
-- Prisoner's Dilemma
-- Ultimatum Game
-- LLM evaluation
-- Reproducibility
-- Behavioral analysis
-
----
-
-# 📄 Publications
-
-**Invited: Benchmarker: A Web-Based System for Tracking Experimental Results**
-
-Proceedings of **ISPD 2026**
-
-DOI:
-https://doi.org/10.1145/3764386.3790088
-
----
-
-# 🌱 Currently Working On
-
-- Large Language Models
-- AI Evaluation
-- Computer Vision
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Full-Stack AI Applications
-
----
-
+⭐ *Always interested in Data Engineering, Distributed Systems, Real-Time Analytics, and AI/ML Engineering.*
 # 📫 Let's Connect
 
 - 💼 LinkedIn: (https://www.linkedin.com/in/dishantbhatnagar/)
