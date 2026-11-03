@@ -14,11 +14,11 @@ Currently working as an **AI Data Engineer at McKinsey & Company**, focusing on 
 
 ## 🚀 What I'm Working On
 
-- 🔹 Building modular, configuration-driven ETL/ELT frameworks using Python.
-- 🔹 Developing enterprise knowledge retrieval systems with LangChain, Pinecone, and RAG.
-- 🔹 Optimizing data processing, query performance, and workflow orchestration.
-- 🔹 Exploring real-time data engineering with Kafka, Spark, and distributed storage.
-- 🔹 Building LLM-powered applications with Claude AI and open-source models.
+- Building modular, configuration-driven ETL/ELT frameworks using Python.
+- Developing enterprise knowledge retrieval systems with LangChain, Pinecone, and RAG.
+- Optimizing data processing, query performance, and workflow orchestration.
+- Exploring real-time data engineering with Kafka, Spark, and distributed storage.
+- Building LLM-powered applications with Claude AI and open-source models.
 
 ## 🛠️ Technical Skills
 
